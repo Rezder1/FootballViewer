@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FootballViewer.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3648f631dc25399217b172004f1580436fac89a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FootballViewer.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FootballViewer.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
