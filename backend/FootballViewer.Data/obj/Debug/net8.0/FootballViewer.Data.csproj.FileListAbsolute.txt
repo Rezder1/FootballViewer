@@ -1,0 +1,13 @@
+F:\!Project\FootballViewer\backend\FootballViewer.Data\bin\Debug\net8.0\FootballViewer.Data.deps.json
+F:\!Project\FootballViewer\backend\FootballViewer.Data\bin\Debug\net8.0\FootballViewer.Data.dll
+F:\!Project\FootballViewer\backend\FootballViewer.Data\bin\Debug\net8.0\FootballViewer.Data.pdb
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.csproj.AssemblyReference.cache
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.AssemblyInfoInputs.cache
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.AssemblyInfo.cs
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.csproj.CoreCompileInputs.cache
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.sourcelink.json
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.dll
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\refint\FootballViewer.Data.dll
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\FootballViewer.Data.pdb
+F:\!Project\FootballViewer\backend\FootballViewer.Data\obj\Debug\net8.0\ref\FootballViewer.Data.dll
