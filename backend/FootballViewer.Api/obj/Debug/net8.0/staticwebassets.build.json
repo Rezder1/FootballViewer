@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HD1Nq7azo8pMKnDNG+n+CTXOeRoRbSJUSVDhJyyHUek=",
+  "Source": "FootballViewer.Api",
+  "BasePath": "_content/FootballViewer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
