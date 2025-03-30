@@ -1,0 +1,8 @@
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.csproj.AssemblyReference.cache
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.AssemblyInfoInputs.cache
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.AssemblyInfo.cs
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.csproj.CoreCompileInputs.cache
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\HomeProjects\FootballViewer\obj\Debug\net8.0\FootballViewer.Core.sourcelink.json

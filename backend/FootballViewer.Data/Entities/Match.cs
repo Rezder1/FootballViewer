@@ -7,10 +7,10 @@ namespace FootballViewer.Data.Entities
         public int Id { get; set; }
         public DateTime DateTime { get; set; } = DateTime.UtcNow;
 
-        public string Result { get; set; }
+        public string Result { get; set; } = null!;
 
-        public Team HomeTeam { get; set; }
+        public Team HomeTeam { get; set; } = null!;
 
-        public Team GuestTeam { get; set; }
+        public Team GuestTeam { get; set; } = null!;
     }
 }
