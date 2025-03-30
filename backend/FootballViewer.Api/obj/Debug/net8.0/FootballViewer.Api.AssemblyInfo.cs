@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FootballViewer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60d2ec9654bdf5d47eebb0ceb77c5cf4297b4767")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5540fdb209108b186a8ae5f161c7f1c95070b75")]
 [assembly: System.Reflection.AssemblyProductAttribute("FootballViewer.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FootballViewer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
